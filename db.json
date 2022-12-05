@@ -210,7 +210,7 @@
       "img": "/img/9.0.webp",
       "desc": "Package contains: 1 t-shirt Machine wash Cotton Relaxed Fit",
       "category": "woman t-shirt",
-      "featured": true,
+      "featured": false,
       "reviews": 60,
       "stars": 3.5,
       "imgs": [
@@ -235,7 +235,7 @@
       "img": "/img/10.0.webp",
       "desc": "o bhai",
       "category": "Stole",
-      "featured": true,
+      "featured": false,
       "reviews": 60,
       "stars": 3.5,
       "imgs": [
@@ -259,7 +259,7 @@
       "img": "/img/2.webp",
       "desc": "Zip fly with button closure 5-pocket stylingBelt loops Package contains: 1 jeans Machinwash Mid Rise 98% cotton, 2% elastane",
       "category": "Jeans",
-      "featured": true,
+      "featured": false,
       "reviews": 60,
       "stars": 3.5,
       "imgs": [
